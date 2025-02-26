@@ -5,7 +5,7 @@
 #include <Adafruit_GFX.h>
 
 #define OLED_ADDR 0x3c
-#define DEFAULT_FONT_SIZE 2
+#define DEFAULT_FONT_SIZE 1
 
 class DisplayDriver
 {

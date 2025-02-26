@@ -4,12 +4,12 @@
 
 ### Connections:
 
-| Display Pin | Board Pin |
-|-------------|-----------|
-| GND         | GND       |
-| VDD         | 5V        |
-| SCK         | A5        |
-| SDA         | A4        |
+| Display Pin | Board Pin | Recommended Color (by me lol)
+|-------------|-----------|-------------------------------
+| GND         | GND       | Black                         
+| VDD         | 5V        | Red
+| SCK         | A5        | Green
+| SDA         | A4        | White
 
 ### TODO:
-- [ ] Make it object oriented as in the OmniCalor project.
+- [x] Make it object oriented as in the OmniCalor project.
